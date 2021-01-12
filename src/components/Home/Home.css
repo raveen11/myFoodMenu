@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+
+.itemss{
+    height: 30px;
+    width: 80%;
+    background-color: rgb(4, 88, 9);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 5%;
+    cursor: pointer;
+    color: honeydew;
+}
+
+.navs{
+    text-align: center;
+    justify-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+   }
+@media(max-width:720px){
+    
+.navs{
+    text-align: center;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   
+ 
+
+}
+.btn_filter{
+    background-color: blue;
+    margin: 10px;
+    margin-left: 20px;
+}
+.carousel{
+    background-color: rgb(233, 230, 230);
+    padding: 10px;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 30px;
+}
+
+
+
+/*Breadcrumb*/
+.breadcrumb{
+    margin-left: 10px;
+}
+
+
+
+/* Styles for wrapping the search box */
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+    position: sticky;
+}
+
+.main.scrolling {
+    width: 50%;
+    margin: 50px auto;
+    background-color: blueviolet;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+.form-control{
+    border-radius: 30px;
+    border: 2px solid red;
+    background-color: rgb(40, 40, 65);
+    height: 50px;
+}
+.btn{
+    border-radius: 30px;
+    border: 1px solid red;
+}
+
+.btn:hover{
+    border-radius: 30px;
+    border: 1px solid red;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+
+
+
+.arrowUp{
+	font-size: 250px;
+	position: relative;
+	left: 48%;
+	border: 1px solid black;
+	border-radius: 50%;
+	top: -200px;
+}
+
+
+.price_div{
+    justify-items: center;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.price__div{
+    justify-items: center;
+ 
+}

@@ -1,0 +1,19 @@
+.pizza2{
+    width: 100%;
+    border-radius: 4px;
+    height: 100%;
+    border: 1px solid gray;
+    display: flex;
+    margin: 10px;
+    overflow-x: scroll;
+  
+}
+
+.cancle_btn{
+    margin-left: 65%;
+    margin-right: 10%;
+}
+.cancle_div{
+    justify-items: center;
+    padding-left: 45%;    
+}

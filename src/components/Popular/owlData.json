@@ -1,0 +1,180 @@
+
+[
+    {
+        "id":"1",
+        "name":"MOMO",
+        "price":"100",
+        "img":"/images/momo.jpg",
+        "title":"Steam Momo",
+        "category":"Momo"
+    },
+    {
+        "id":"2",
+        "name":"Chowmin",
+        "price":"10",
+        "img":"/images/burger.jpg",
+        "title":"Chowmin",
+        "category":"Noodles"
+    },
+    {
+        "id":"3",
+        "name":"Thukpa",
+        "price":"20",
+        "img":"/images/pizza.jpg",
+        "title":"Thukpa",
+        "category":"Noodles"
+
+    },
+    {
+        "id":"4",
+        "name":"Nepali Khana",
+        "price":"80",
+        "img":"/images/nepalikhana.jpg",
+        "title":"Nepali Food",
+        "category":"Food"
+    },
+    {
+        "id":"5",
+        "name":"Pizza",
+        "price":"320",
+        "img":"/images/pizza.jpg",
+        "title":"Cheese Pizza",
+        "category":"Food"
+    },
+    {
+        "id":"6",
+        "name":"Burger",
+        "price":"60",
+        "img":"/images/momo.jpg",
+        "title":"Burger",
+        "category":"Food"
+    },
+    {
+        "id":"7",
+        "name":"C-momo",
+        "price":"60",
+        "img":"/images/momo.jpg",
+        "title":"C-Momo",
+        "category":"Momo"
+    },
+    {
+        "id":"8",
+        "name":"Coke",
+        "price":"120",
+        "img":"/images/momo.jpg",
+        "title":"Drinks",
+        "category":"Beverages"
+    },
+    {
+        "id":"9",
+        "name":"Fanta",
+        "price":"300",
+        "img":"https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+        "category":"Beverages",
+        "title":"Drinks"
+    },
+    {
+        "id":"10",
+        "name":"American Chopsey",
+        "price":"220",
+        "img":"https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+        "title":"American Chopsey",
+        "category":"Noodles"
+    },
+    {
+        "id":"11",
+        "name":"Apple",
+        "price":"120",
+        "img":"/images/soup.jpg",
+        "category":"Fruits",
+        "title":" Mustang's Dry Apple"
+    },{
+        "id":"12",
+        "name":"MOMO",
+        "price":"120000",
+        "img":"/images/momo.jpg",
+        "title":"Steam Momo",
+        "category":"Momo"
+    },
+    {
+        "id":"13",
+        "name":"Chowmin",
+        "price":"120",
+        "img":"/images/burger.jpg",
+        "title":"Chowmin",
+        "category":"Noodles"
+    },
+    {
+        "id":"14",
+        "name":"Thukpa",
+        "price":"120",
+        "img":"/images/pizza.jpg",
+        "title":"Thukpa",
+        "category":"Noodles"
+
+    },
+    {
+        "id":"15",
+        "name":"Nepali Khana",
+        "price":"120",
+        "img":"/images/nepalikhana.jpg",
+        "title":"Nepali Food",
+        "category":"Food"
+    },
+    {
+        "id":"16",
+        "name":"Pizza",
+        "price":"120",
+        "img":"/images/pizza.jpg",
+        "title":"Cheese Pizza",
+        "category":"Food"
+    },
+    {
+        "id":"17",
+        "name":"Burger",
+        "price":"120",
+        "img":"/images/momo.jpg",
+        "title":"Burger",
+        "category":"Food"
+    },
+    {
+        "id":"18",
+        "name":"C-momo",
+        "price":"120",
+        "img":"/images/momo.jpg",
+        "title":"C-Momo",
+        "category":"Momo"
+    },
+    {
+        "id":"19",
+        "name":"Coke",
+        "price":"120",
+        "img":"/images/momo.jpg",
+        "title":"Drinks",
+        "category":"Beverages"
+    },
+    {
+        "id":"20",
+        "name":"Fanta",
+        "price":"120000",
+        "img":"https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+        "category":"Beverages",
+        "title":"Drinks"
+    },
+    {
+        "id":"21",
+        "name":"American Chopsey",
+        "price":"120",
+        "img":"https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+        "title":"American Chopsey",
+        "category":"Noodles"
+    },
+    {
+        "id":"22",
+        "name":"Apple",
+        "price":"120",
+        "img":"/images/soup.jpg",
+        "category":"Fruits",
+        "title":" Mustang's Dry Apple"
+    }
+]

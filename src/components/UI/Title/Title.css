@@ -1,0 +1,19 @@
+.title_base_line{
+    border-bottom: 3px solid rgb(104, 14, 14);
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+.title{
+    color: black;
+    margin: 10px;
+    margin-left: 50px;
+    font-size: xx-large;
+    font-weight:700;    
+}
+
+.title_main_div{
+    text-align: center;
+}
